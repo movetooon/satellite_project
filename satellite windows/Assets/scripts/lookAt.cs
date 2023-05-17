@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class lookAt : MonoBehaviour
 {
-    //test gitHub
+    //test main branch 
     public GameObject looker;
 
     private void Update()
